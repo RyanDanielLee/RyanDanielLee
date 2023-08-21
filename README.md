@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Ryan! I'm currently in my second term of the CIT program at the British Columbia Institute of Technology.
+
+📫 Connect With Me! [LinkedIn](https://www.linkedin.com/in/ryan-lee-22540a261/)
+
 <!--
 **RyanDanielLee/RyanDanielLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
