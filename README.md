@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ryan! I'm currently in my second term of the CIT program at the British Columbia Institute of Technology.
+I'm Ryan! I'm currently in my third term of the CIT program at the British Columbia Institute of Technology.
 
 📫 Connect With Me! [LinkedIn](https://www.linkedin.com/in/ryan-lee-22540a261/)
 
