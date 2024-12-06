@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ryan! I'm currently in my final term of the CIT program at the British Columbia Institute of Technology.
+I'm Ryan! I am a CIT graduate and current BTech candidate for the Digital Forensics and Cybersecurity program at the British Columbia Institute of Technology. 
 
 📫 Connect With Me! [LinkedIn](https://www.linkedin.com/in/ryan-lee-22540a261/)
 
